@@ -1,10 +1,11 @@
-Project Name: Wrangle OpenStreetMap Data: Irving, Texas, USA
+Data Visualization in Tableau Project
+Project name: Height - Weight Relation to Baseball Batting Average and HR
 
-For this project, I've selected a portion of Irving city, located in the state of Texas of the United States of America. The actual area selected is actually the area which I am considering for a house purchase. 
+Important Links (Tableau links may require copy and paste):
+Initial Draft: https://public.tableau.com/profile/f.hz#!/vizhome/Besbol_Fevz/Story1 (Tableau links)
+Final Draft: https://public.tableau.com/profile/f.hz#!/vizhome/Height-WeightRelationtoBaseballBattingAverageandHR-FInal/Story1 
+Original Dataset: Baseball Data (original)
+Final Dataset: baseball_data_final.csv
 
-Irving, TX, USA: https://en.wikipedia.org/wiki/Irving,_Texas 
-
-The goals of this project are:
-1.To extract data from an XML file;
-2.To identify data inconsistencies and rectify them, if possible;
-3.To investigate interesting findings based on queries. 
+Summary
+Based on the baseball data, I performed an explanatory analysis on the historical baseball data obtained from the Udacity dataset link. My main research question is: Are height and weight related to baseball performance as measured by batting average (Avg) and home run (HR) career total? Despite not finding any solid evidence supporting this relationship, I found that data visualization can be used for a quick data quality check, identifying players with best (and worst) statistics, and how the two metrics stack up as baseball performance indicator. 
