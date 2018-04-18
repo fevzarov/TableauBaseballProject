@@ -4,14 +4,10 @@ Project name: Height - Weight Relation to Baseball Batting Average and HR
 
 
 Important Links (Tableau links may require copy and paste):
-
-Initial Draft: https://public.tableau.com/profile/f.hz#!/vizhome/Besbol_Fevz/Story1 (Tableau links)
-
-Final Draft: https://public.tableau.com/profile/f.hz#!/vizhome/Height-WeightRelationtoBaseballBattingAverageandHR-FInal/Story1 
-
-Original Dataset: Baseball Data (original)
-
-Final Dataset: https://github.com/fevzarov/TableauBaseballProject/blob/master/baseball_data_final.csv
+* Initial Draft: https://public.tableau.com/profile/f.hz#!/vizhome/Besbol_Fevz/Story1 (Tableau links)
+* Final Draft: https://public.tableau.com/profile/f.hz#!/vizhome/Height-WeightRelationtoBaseballBattingAverageandHR-FInal/Story1 
+* Original Dataset: Baseball Data (original)
+* Final Dataset: https://github.com/fevzarov/TableauBaseballProject/blob/master/baseball_data_final.csv
 
 
 Summary
