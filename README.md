@@ -4,6 +4,7 @@
 
 
 __Important Links (Tableau links may require copy and paste)__
+
 _Revised Reports_
 * Revised Tableau Story: https://github.com/fevzarov/TableauBaseballProject/blob/master/RevisedBaseballProjectWriteUp.pdf
 * Revised Story Comment Response Write Up: https://github.com/fevzarov/TableauBaseballProject/blob/master/BaseballProjectWriteUp.pdf
