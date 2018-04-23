@@ -6,8 +6,8 @@
 __Important Links (Tableau links may require copy and paste)__
 
 _Revised Reports_
-* Revised Tableau Story: https://github.com/fevzarov/TableauBaseballProject/blob/master/RevisedBaseballProjectWriteUp.pdf
-* Revised Story Comment Response Write Up: https://github.com/fevzarov/TableauBaseballProject/blob/master/BaseballProjectWriteUp.pdf
+* Revised Tableau Story: https://public.tableau.com/profile/f.hz#!/vizhome/Height-WeightRelationtoBaseballBattingAverageandHR-FinalRevised/Story1 
+* Revised Story Comment Response Write Up: https://github.com/fevzarov/TableauBaseballProject/blob/master/RevisedBaseballProjectWriteUp.pdf
 
 _Initial Reports_
 * First Submission of Tableau Story: https://public.tableau.com/profile/f.hz#!/vizhome/Height-WeightRelationtoBaseballBattingAverageandHR-FInal/Story1 
